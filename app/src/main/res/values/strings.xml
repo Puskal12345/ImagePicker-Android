@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImagePicker</string>
+
+    <string name="looking_for_picking">Looking for picking your\nFavourite picture</string>
+    <string name="hello_guest_user">Hello,\nGuest User</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="choose_any_two_photo_from_media">Choose any two photos from device gallery</string>
+    <string name="change_images_list_size">Change images list size</string>
+    <string name="image_list_size">Image List Size</string>
+    <string name="enter_preferred_list_size">Enter preferred list size:</string>
+    <string name="image_size_info">From above selected two images, following size of image list will be generated.</string>
+    <string name="minimum_allowed_size">Minimum allowed size is 3</string>
+    <string name="maximum_allowed_size">Maximum allowed size is 1000</string>
+    <string name="select_two_images">Select two images</string>
+    <string name="photo_gallery">Photo Gallery</string>
+</resources>
